@@ -1,4 +1,4 @@
-package com.lui.springmvc;
+package com.lui.spring;
 
 import java.text.DateFormat;
 import java.util.Date;
